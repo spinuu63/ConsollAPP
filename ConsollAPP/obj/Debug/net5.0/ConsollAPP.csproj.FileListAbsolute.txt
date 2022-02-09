@@ -1,0 +1,16 @@
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\bin\Debug\net5.0\ConsollAPP.exe
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\bin\Debug\net5.0\ConsollAPP.deps.json
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\bin\Debug\net5.0\ConsollAPP.runtimeconfig.json
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\bin\Debug\net5.0\ConsollAPP.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\bin\Debug\net5.0\ConsollAPP.dll
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\bin\Debug\net5.0\ref\ConsollAPP.dll
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\bin\Debug\net5.0\ConsollAPP.pdb
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.dll
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ref\ConsollAPP.dll
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.pdb
+C:\Users\Admin\RiderProjects\ConsollAPP\ConsollAPP\obj\Debug\net5.0\ConsollAPP.genruntimeconfig.cache
