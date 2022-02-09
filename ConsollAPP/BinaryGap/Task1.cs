@@ -9,6 +9,7 @@
                     break;
             int cnt=0; //Count the (possible) gap
             int ret=0; //Keep the longest gap.
+            
             for(; ptr>0; ptr<<=1) {
                 if((N&ptr) != 0) { //If it's bit 1
                     ret = cnt < ret ? ret : cnt; //Get the bigger one between cnt and ret
@@ -16,6 +17,7 @@
                 }
                 cnt++; //Increment the count. If this bit is 1, then cnt would become 0 beause we set the cnt as -1 instead of 0.
             }
+            
             return ret;
         }
     }
